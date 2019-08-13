@@ -10800,6 +10800,11 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+.portfolio-modal .img-fluid {
+  max-width: 50%;
+  height: auto;
+}
+
 .portfolio-modal .close {
   position: absolute;
   z-index: 1;
